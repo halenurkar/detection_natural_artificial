@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yapay</folder>
+	<filename>yapay(1774).jpg</filename>
+	<path>C:\Users\halenur\Desktop\yapay\yapay(1774).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yapay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>21</ymin>
+			<xmax>447</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

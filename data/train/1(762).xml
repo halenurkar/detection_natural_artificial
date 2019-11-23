@@ -1,0 +1,26 @@
+<annotation>
+	<folder>copdegil</folder>
+	<filename>1(762).jpg</filename>
+	<path>C:\Users\halenur\Desktop\copdegil\1(762).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dogal</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>98</ymin>
+			<xmax>493</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>{F3DD2C96-162C-452A-AFC7-78510848319A}</folder>
+	<filename>5.jpeg</filename>
+	<path>C:\Users\kader\OneDrive\Resimler\Feedback\{F3DD2C96-162C-452A-AFC7-78510848319A}\5.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dogal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>27</ymin>
+			<xmax>227</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

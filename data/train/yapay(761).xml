@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>{F3DD2C96-162C-452A-AFC7-78510848319A}</folder>
+	<filename>yapay(761).jpg</filename>
+	<path>C:\Users\kader\OneDrive\Resimler\Feedback\{F3DD2C96-162C-452A-AFC7-78510848319A}\yapay(761).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yapay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>61</ymin>
+			<xmax>461</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>
